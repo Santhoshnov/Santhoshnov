@@ -32,7 +32,7 @@ Here are some of the technologies I work with:
 
 ⚡ I also enjoy competitive coding and solving challenging problems.
 
-💬 Ask Me About: Backend development, web technologies, programming, data science, or any questions you have!
+💬 Ask Me About: Backend development, programming, data science, or any questions you have!
 
 📫 Reach Out to Me: shirobro009@gmail.com
 
