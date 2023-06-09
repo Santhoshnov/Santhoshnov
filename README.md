@@ -1,14 +1,39 @@
-### Hi there 👋
+# Hi there, I'm Santhosh! 👋
+
+I'm a backend web developer who loves logic and problem-solving. I specialize in building robust and scalable web applications using a variety of technologies. I'm always eager to adapt to new technologies and learn through hands-on project building. I'm also experienced in working on data science projects, where I've applied machine learning, deep learning techniques to solve real-world problems. 
+
+## Tech Stacks
+
+Here are some of the technologies I work with:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+## Language Statistics
+
+Here are some statistics about the languages I use in my projects:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshnov&layout=compact&theme=radical)
+
+🔭 Enhancing my backend development skills and exploring the latest technologies.
+
+🌱 Continuously expanding my knowledge by building projects and keeping up with industry trends, including Artificial Intelligence and Data Science.
+
+👯  Open to exciting projects and collaborations in web development and machine learning.
+
+⚡ I enjoy competitive coding and solving challenging problems.
+
+💬 Ask Me About: Backend development, web technologies, programming, data science, or any questions you have!
+
+📫 Reach Out to Me: shirobro009@gmail.com
 
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
