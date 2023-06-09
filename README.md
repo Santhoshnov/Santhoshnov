@@ -28,7 +28,7 @@ Here are some of the technologies I work with:
 
 🌱 Continuously expanding my knowledge by building projects and keeping up with industry trends, including Artificial Intelligence and Data Science.
 
-👯  Open to exciting projects and collaborations in web development and Data Science.
+🤝  Open to exciting projects and collaborations in web development and Data Science.
 
 ⚡ I also enjoy competitive coding and solving challenging problems.
 
