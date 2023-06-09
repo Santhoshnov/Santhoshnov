@@ -1,6 +1,6 @@
 # Hi there, I'm Santhosh S 👋
 
-I'm a backend web developer who loves logic and problem-solving. I specialise in building robust and scalable web applications using a variety of technologies. I'm always eager to adapt to new technologies and learn through hands-on project building. I'm also experienced in working on data science projects where I've applied machine learning and deep learning techniques to solve real-world problems.
+I'm a Backend web developer who loves logic and problem-solving. I specialise in building robust and scalable web applications using a variety of technologies. I'm always eager to adapt to new technologies and learn through hands-on project building. I'm also experienced in working on data science projects where I've applied machine learning and deep learning techniques to solve real-world problems.
 
 ## Tech Stacks
 
@@ -24,7 +24,7 @@ Here are some of the technologies I work with:
 [![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshnov&show_icons=true&theme=radical)](https://github.com/Santhoshnov)
 
 
-🔭 Enhancing my backend development skills and exploring the latest technologies.
+🔭 Enhancing my Backend development skills and exploring the latest technologies.
 
 🌱 Continuously expanding my knowledge by building projects and keeping up with industry trends, including Artificial Intelligence and Data Science.
 
