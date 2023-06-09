@@ -1,6 +1,6 @@
 # Hi there, I'm Santhosh S! 👋
 
-I'm a backend web developer who loves logic and problem-solving. I specialize in building robust and scalable web applications using a variety of technologies. I'm always eager to adapt to new technologies and learn through hands-on project building. I'm also experienced in working on data science projects, where I've applied machine learning, deep learning techniques to solve real-world problems. 
+I'm a backend web developer who loves logic and problem-solving. I specialise in building robust and scalable web applications using a variety of technologies. I'm always eager to adapt to new technologies and learn through hands-on project building. I'm also experienced in working on data science projects where I've applied machine learning and deep learning techniques to solve real-world problems.
 
 ## Tech Stacks
 
