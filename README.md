@@ -6,6 +6,7 @@ I'm a backend web developer who loves logic and problem-solving. I specialize in
 
 Here are some of the technologies I work with:
 
+![Python](https://img.shields.io/badge/-Python-E34F26?style=flat&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -13,14 +14,12 @@ Here are some of the technologies I work with:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## Language Statistics
+Statistics
 
-Here are some statistics about the languages I use in my projects:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshnov&layout=compact&theme=radical)
+[![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshnov&show_icons=true&theme=radical)](https://github.com/Santhoshnov)
 
 🔭 Enhancing my backend development skills and exploring the latest technologies.
 
