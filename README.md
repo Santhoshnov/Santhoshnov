@@ -1,4 +1,4 @@
-# Hi there, I'm Santhosh! 👋
+# Hi there, I'm Santhosh S! 👋
 
 I'm a backend web developer who loves logic and problem-solving. I specialize in building robust and scalable web applications using a variety of technologies. I'm always eager to adapt to new technologies and learn through hands-on project building. I'm also experienced in working on data science projects, where I've applied machine learning, deep learning techniques to solve real-world problems. 
 
@@ -16,7 +16,7 @@ Here are some of the technologies I work with:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![SQL Shark](https://img.shields.io/badge/-SQL%20Shark-4479A1?style=flat&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL%20Shark-4479A1?style=flat&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 Statistics
