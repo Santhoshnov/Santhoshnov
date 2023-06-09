@@ -22,7 +22,7 @@ Here are some of the technologies I work with:
 ## Statistics
 
 [![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshnov&show_icons=true&theme=radical)](https://github.com/Santhoshnov)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshnov&layout=compact&theme=radical)
+
 
 🔭 Enhancing my backend development skills and exploring the latest technologies.
 
