@@ -36,6 +36,7 @@ Here are some of the technologies I work with:
 
 💬 Ask me about frontend and backend development, programming, data science, or any questions you have!
 
-📫 Reach out to me at : [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/santhosh-saravanan-236986211)
+📫 Reach out to me at
+    [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/santhosh-saravanan-236986211)
 
 
