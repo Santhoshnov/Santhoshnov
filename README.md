@@ -1,4 +1,4 @@
-#                                                      Hi there, I'm Santhosh S 👋
+# Hi there, I'm Santhosh S 👋
 
 I'm a passionate Full Stack Developer with expertise in frontend and backend development. I enjoy working with various technologies and staying up-to-date with the latest trends in web development. I'm also experienced in applying machine learning and deep learning techniques to solve real-world problems in data science projects. Always eager to learn and adapt to new technologies through hands-on project building.
 
