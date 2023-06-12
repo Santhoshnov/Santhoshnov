@@ -21,9 +21,7 @@ Here are some of the technologies I work with:
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## Statistics
 
-[![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshnov&show_icons=true&theme=radical)](https://github.com/Santhoshnov)
 
 
 🔭 Enhancing my full stack development skills and exploring the latest technologies in both frontend and backend.
