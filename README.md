@@ -1,6 +1,6 @@
 # Hi there, I'm Santhosh S 👋
 
-I'm a passionate Full Stack Developer with expertise in frontend and backend development. I enjoy working with various technologies and staying up-to-date with the latest trends in web development. I'm also experienced in applying machine learning and deep learning techniques to solve real-world problems in data science projects. Always eager to learn and adapt to new technologies through hands-on project building.
+I'm a passionate Full Stack Developer with expertise in frontend and backend development. I enjoy working with various technologies and staying up-to-date with the latest trends in web development. I'm always eager to learn and adapt to new technologies through hands-on project building. My focus is on creating efficient and user-friendly web applications that meet the needs of clients and provide a seamless user experience.
 
 ## Tech Stacks
 
@@ -26,13 +26,9 @@ Here are some of the technologies I work with:
 
 🔭 Enhancing my full stack development skills and exploring the latest technologies in both frontend and backend.
 
-🌱 Continuously expanding my knowledge by building projects and staying updated with industry trends, including artificial intelligence and data science.
+🌱 Continuously expanding my knowledge by building projects and staying updated with industry trends.
 
-🤝 Open to exciting projects and collaborations in web development and data science.
-
-⚡ I also enjoy competitive coding and solving challenging problems.
-
-💬 Ask me about frontend and backend development, programming, data science, or any questions you have!
+🤝 Open to exciting projects and collaborations in web development.
 
 📫 Reach out to me at
     
