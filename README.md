@@ -1,6 +1,6 @@
 # Hi there, I'm Santhosh S 👋
 
-I'm a passionate Full Stack Developer with expertise in frontend and backend development. I enjoy working with various technologies and staying up-to-date with the latest trends in web development. I'm always eager to learn and adapt to new technologies through hands-on project building. My focus is on creating efficient and user-friendly web applications that meet the needs of clients and provide a seamless user experience.
+I'm a passionate Full Stack Developer with expertise in frontend and backend development. I enjoy working with various technologies and staying up-to-date with the latest trends in web development. I'm always eager to learn and adapt to new technologies through hands-on project building. 
 
 ## Tech Stacks
 
