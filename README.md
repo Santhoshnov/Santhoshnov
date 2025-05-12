@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Santhosh
 
-<!--
-**Santhoshnov/Santhoshnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **T-shaped Software Developer** with a strong foundation in **Backend Development**, particularly using **C# and .NET**. I focus on building **scalable**, **high-performance** systems and enjoy working on clean architecture, performance optimization, and robust API design.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Proficient:** C#, .NET Core, SQL, REST APIs, Data Structures & Algorithms
+- **Familiar:** Java, Python, Angular, TypeScript, Flutter, Dart
+- **Development Areas:**
+  - **Backend Development:** C#, .NET Core, SQL
+  - **Full-Stack Web:** Angular + .NET 
+  - **Mobile Development:** Flutter + .NET
+
+## ✅ What I Do
+
+- Build and optimize backend systems
+- Design and implement RESTful APIs
+- Write clean, maintainable code with unit & integration tests
+- Collaborate in agile environments to deliver business value
+
+## 🌱 Currently Exploring
+
+- System design and distributed systems
+- Advanced .NET features and performance tuning
+- Cross-platform mobile development with Flutter
+
+## 📂 Projects
+
+Check out my work: [GitHub Portfolio](https://github.com/Santhoshnov)
+
+---
+
+Let's connect and build something awesome together!
