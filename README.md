@@ -8,7 +8,7 @@ I'm a passionate **T-shaped Software Developer** with a strong foundation in **B
 - **Familiar:** Java, Python, Angular, TypeScript, Flutter, Dart
 - **Development Areas:**
   - **Backend Development:** C#, .NET Core, SQL
-  - **Full-Stack Web:** Angular + .NET 
+  - **Full-Stack Web Development:** Angular + .NET 
   - **Mobile Development:** Flutter + .NET
 
 ## ✅ What I Do
