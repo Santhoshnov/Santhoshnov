@@ -16,12 +16,9 @@ I'm a software developer with deep expertise in **C#** and **.NET**, specializin
 - Build and optimize backend systems
 - Design and implement RESTful APIs
 - Write clean, maintainable code with unit & integration tests
-- Collaborate in agile environments to deliver business value
 
 ## 🌱 Currently Exploring
 
-- System design and distributed systems
-- Advanced .NET features and performance tuning
 - Full stack web development with React and .Net
 
 ## 📂 Projects
