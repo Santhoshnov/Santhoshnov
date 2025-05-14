@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Santhosh
 
-I'm a passionate **T-shaped Software Developer** with a strong foundation in **Backend Development**, particularly using **C# and .NET**. I focus on building **scalable**, **high-performance** systems and enjoy working on clean architecture, performance optimization, and robust API design.
+I'm a software developer with deep expertise in **C#** and **.NET**, specializing in building scalable, high-performance systems. My core strength lies in **Backend Development**, with a solid foundation in **SQL**, **Data Structures & Algorithms**, and hands-on experience developing **RESTful APIs** along with thorough **unit and integration testing** to ensure code reliability and maintainability.
 
 ## 🛠️ Tech Stack
 
 - **Proficient:** C#, .NET Core, SQL, REST APIs, Data Structures & Algorithms
-- **Familiar:** Java, Python, Angular, TypeScript, Flutter, Dart
+- **Familiar:** Java, Python, JavaScript, React JS
 - **Development Areas:**
   - **Backend Development:** C#, .NET Core, SQL
-  - **Full-Stack Web Development:** Angular + .NET 
-  - **Mobile App Development:** Flutter + .NET
+  - **Full-Stack Web Development:** React + .NET 
+  
 
 ## ✅ What I Do
 
@@ -22,7 +22,7 @@ I'm a passionate **T-shaped Software Developer** with a strong foundation in **B
 
 - System design and distributed systems
 - Advanced .NET features and performance tuning
-- Cross-platform mobile development with Flutter
+- Full stack web development with React and .Net
 
 ## 📂 Projects
 
