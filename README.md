@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Santhosh
 
-🎯 Aspiring Software Engineer
+💻 Aspiring Software Engineer  
+🧰 Specializing in Backend Development using **C#** and **.NET Core**  
+🧠 Strong in **Data Structures and Algorithms**, **SQL**, and building **scalable systems**  
+📚 Always learning  
+🏏 Outside of tech, I enjoy playing **cricket** and staying active.
 
-🧠 Self-taught developer who started programming with Python, now specializing in Backend development using C# and .NET.
 
-📱 Currently exploring mobile app development with Flutter.
