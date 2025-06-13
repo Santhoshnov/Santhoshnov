@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santhosh
 
-💻 Aspiring Software Engineer proficient in Java, SQL, Data Structures and Algorithms.
+💻 Aspiring Software Engineer proficient in Python, SQL, Data Structures and Algorithms.
 
 🧰 Specializing in Backend Development using **C#** and **.NET Core** 
 
