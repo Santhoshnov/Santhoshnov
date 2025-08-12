@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santhosh
 
-🧑‍💻 Aspiring Software Engineer currently specializing in Full-Stack Development.
+🧑‍💻 Aspiring Software Engineer currently specializing in Backend Development. 
 
 📚 Always learning and improving my skills.
 
